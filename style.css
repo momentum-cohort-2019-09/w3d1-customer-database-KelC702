@@ -1,0 +1,20 @@
+.container {
+    width: 100%
+}
+.customer {
+
+    width:200px ;
+    height: 400px;
+}
+
+
+.address1 {
+    text-transform: capitalize;
+
+}
+.address2 {
+    text-transform: capitalize;
+}
+.name {
+    text-transform: capitalize;
+}
